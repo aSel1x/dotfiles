@@ -65,7 +65,7 @@ user_pref("browser.startup.couldRestoreSession.count", 2);
 user_pref("browser.startup.homepage_override.buildID", "20250317120031");
 user_pref("browser.startup.homepage_override.mstone", "136.0.2");
 user_pref("browser.startup.lastColdStartupCheck", 1742945582);
-user_pref("browser.topsites.contile.lastFetch", 1742945583);
+user_pref("browser.topsites.contile.lastFetch", 1742945884);
 user_pref("browser.translations.mostRecentTargetLanguages", "ru");
 user_pref("browser.translations.panelShown", true);
 user_pref("browser.uiCustomization.state", "{\"placements\":{\"widget-overflow-fixed-list\":[\"fxa-toolbar-menu-button\",\"save-to-pocket-button\"],\"unified-extensions-area\":[],\"nav-bar\":[\"back-button\",\"forward-button\",\"stop-reload-button\",\"developer-button\",\"customizableui-special-spring1\",\"vertical-spacer\",\"customizableui-special-spring4\",\"urlbar-container\",\"customizableui-special-spring5\",\"customizableui-special-spring2\",\"downloads-button\",\"unified-extensions-button\",\"ublock0_raymondhill_net-browser-action\"],\"TabsToolbar\":[\"firefox-view-button\",\"tabbrowser-tabs\",\"new-tab-button\",\"alltabs-button\"],\"vertical-tabs\":[],\"PersonalToolbar\":[\"import-button\",\"personal-bookmarks\"]},\"seen\":[\"save-to-pocket-button\",\"developer-button\",\"ublock0_raymondhill_net-browser-action\"],\"dirtyAreaCache\":[\"nav-bar\",\"vertical-tabs\",\"PersonalToolbar\",\"TabsToolbar\",\"widget-overflow-fixed-list\"],\"currentVersion\":21,\"newElementCount\":5}");
