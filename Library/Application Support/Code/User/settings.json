@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Catppuccin Latte",
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 13,
+    "files.exclude": {
+        "**/__pycache__": true,
+        ".venv": true,
+    },
+    // Python
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit"
+        },
+    },
+    "ruff.configuration": "~/ruff.toml"
+}
