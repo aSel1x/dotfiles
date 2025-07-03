@@ -1,0 +1,5 @@
+[alias]
+	dotfiles = !git --git-dir=$HOME/.dotfiles/.git/ --work-tree=$HOME
+[user]
+	email = asel1x@icloud.com
+	name = aSel1x
