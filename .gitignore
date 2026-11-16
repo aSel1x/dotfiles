@@ -1,0 +1,4 @@
+node_modules/
+service.json
+*.back
+.config/opencode/skills/demo-backend-review/
