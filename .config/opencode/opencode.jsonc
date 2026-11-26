@@ -16,9 +16,7 @@
     { "action": "shell", "resource": "apt-get *", "effect": "ask" },
     { "action": "shell", "resource": "git push *", "effect": "ask" },
     { "action": "shell", "resource": "wsl.exe *", "effect": "ask" },
-    { "action": "shell", "resource": "/mnt/c/*", "effect": "ask" },
-    // Мост sshfs: локальный запуск процессов в ~/laptop запрещён — исполнение только по ssh
-    { "action": "shell", "resource": "cd ~/laptop*", "effect": "ask" }
+    { "action": "shell", "resource": "/mnt/c/*", "effect": "ask" }
   ],
   // MCP: figma — макеты (OAuth, первый вход через /mcps);
   // browse — агентский браузер (путь существует на домашней машине,
